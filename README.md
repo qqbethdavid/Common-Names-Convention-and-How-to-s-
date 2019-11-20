@@ -101,6 +101,8 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
 	
    1.3.	Or you cannot say for sure what country it is because there is some conflict between the site where the experiment 
         was done and the nationality of the author. 
+	
+	Assumed rules was edited. 
 
 
 
