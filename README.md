@@ -94,9 +94,9 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
 ## Assumed rules (which are based on common sense) 
 1. Caution in tagging ‘Global’ to names that are found in websites and other references. 
 
-   1.1.	Which do not say anything about the country it is from; 
+   1.1.	Which do not say anything about the country it is from.
    1.2.	And the country where the name originates from is vaguely described in the reference (e.g. there are two or three 
-        countries that the author included in his study and it is not indicated where the sampling was done); 
+        countries that the author included in his study and it is not indicated where the sampling was done). 
    1.3.	Or you cannot say for sure what country it is because there is some conflict between the site where the experiment 
         was done and the nationality of the author. 
 
