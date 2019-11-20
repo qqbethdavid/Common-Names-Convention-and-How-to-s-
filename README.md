@@ -105,14 +105,6 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
 
 
 
-## Cases:
-
-### Case 1:
-
-Global refers to large areas such as Indo-Pacific, western Atlantic or any region that is large enough to be thought of as Global.  If let’s say you have a reference that says ‘The Molluscs of Southern Africa’. The author refers “Southern Africa” to Namibia, South Africa and Mozambique. He did not indicate that he took sampling, only that he made the book as a reference guide to identification and he especially included common names.  Here, he listed common names and the countries where they are found. So some common names are found in all three countries, others in only one or two.  
-
-You check first what the author says about the common names if there is any. This might give you an idea of how to better classify the common names in what country they are. In our case we did not find anything significant about the description of the author about the common names and how he got them. It is just that he listed them and that is as is. 
-I wondered how to classify them to what country because one country, Mozambique does not use English as a national language. English is neither in their other languages and all names in the book are in English. I checked the names of the author and what nationality they are and they are all South Africans. So it is possible it is the name most used in South Africa but I do not know if it is same used in Namibia. But Namibia also uses English as a national language so I assumed that since the author indicated in the book that these are the species in Southern Africa then I assumed that the English names used will work for both South Africa and Namibia but I cannot say that for Mozambique because Mozambique does not use English as a national language. If the species are indicated as distributed in Namibia and South Africa, I put two entries in the common names. One for Namibia and one for South Africa using English as the language with a rank of 2 (I verified this with E.Capuli and she said it is ok).  If the species is found in Mozambique I cannot rank it as 2 but as a foreign language, 4. 
 
 
 This was last edited November 20, 2019
