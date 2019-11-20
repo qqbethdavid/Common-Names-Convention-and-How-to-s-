@@ -107,4 +107,4 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
 
 
 
-This was last edited November 20, 2019
+Check the Wiki for one case handled in common names. 
