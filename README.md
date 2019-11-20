@@ -41,3 +41,73 @@ Gives you a hand in common name encoding
      
 In ranking there is a need to know the languages in a certain country and which languages have an official status,
 are in use widespread or are indigenous or threatened. It also helps if the population of the users of a particular language is known because it may help us to determine if this is a national, official language or it is just a commonly used language. We check the language and get the most recent and updated information on which languages are national, official, etc. We update these languages using an International Standard ISO (e.g.  Ethnologue, it has a website but you’ll need to register to access most of the information in it. It lists the current status of languages and the number of users). 
+
+
+# II. NEW AND OLD ASFIS and FAO NAMES
+
+In the case of ASFIS or FAO names which have been updated creating either a repetition of the old name or an entirely new name, 
+
+1. If the ASFIS or FAO name has been updated and is the same as the old name record in the previous versions of ASFIS/FAO 
+   then we simply change the reference number to the new one and then we put in the remarks field the old reference number 
+   i.e. “also used in Ref. v. xxxx...”. 
+
+2. If the ASFIS or FAO name has been updated and is an entirely new name for the species then we create a new record and a 
+   new reference number.
+   Then the old name will be tagged as FAO old in the “Type” field and the rank will be zero.   The new FAO name in the 
+   current/new updated version will assume Rank 1. 
+
+
+
+# III. THE USE OF MODIFIERS
+
+   A modifier is a word, phrase or clause which functions as an adjective or an adverb to describe a word or make its meaning more specific. A modifier is an adjective if it modifies a noun or a pronoun and is an adverb if it modifies a verb. In our case almost always the core names we modify are nouns. 
+
+Example:   In the common name “red king crab” the core name is ‘crab’
+The first modifier is ‘king’ and the second modifier is ‘red’.
+
+## Other points: 
+1. Global is used in the “country” field when we refer to a language used in large areas 
+   i.e.  Indo-Pacific, Western Central 
+
+2. There should only be one name ranked 1 and ranked 2 in a country. One per species, language and country. Other 
+   languages that are actually supposed to be ranked 2 because they are in the national language will be superseded by the 
+   first name you ranked as 2 (by checking that this is in the national language and is the language with most users if 
+   there are several national languages listed in Ethnologue). These other languages then will have to be ranked 3 even if 
+   they are supposed to be in the 2nd rank as the rules apply, but we must follow the rule ‘one name ranked 1 and 2’ rule 
+   here. 
+
+   e.g. Tagalog, rank 2, Philippines
+        English, rank 2, Philippines
+
+   English becomes rank 3 instead even if in Ethnologue it says that English is a National language is has status 1. We 
+   always follow the ‘one name ranked 1 or 2’ rule. Thus it should be 
+		Tagalog, rank 2, Philippines 
+		English, rank 3, Philippines
+
+3. In the case of a reference listing 3 or more names in the national language, one of them should be ranked 2, the rest 
+   should be ranked 3.  
+
+4. Trade names are mostly for ornamental fishes. Trade name refers to fishes/nonfishes being imported hence, the name 
+   ‘trade’. Tick the box if the reference says it is the trade name. 
+
+
+## Assumed rules (which are based on common sense) 
+1. Caution in tagging ‘Global’ to names that are found in websites and other references. 
+
+   1.1.	Which do not say anything about the country it is from; 
+   1.2.	And the country where the name originates from is vaguely described in the reference (e.g. there are two or three 
+        countries that the author included in his study and it is not indicated where the sampling was done); 
+   1.3.	Or you cannot say for sure what country it is because there is some conflict between the site where the experiment 
+        was done and the nationality of the author. 
+
+
+
+
+## Cases:
+
+### Case 1:
+
+Global refers to large areas such as Indo-Pacific, western Atlantic or any region that is large enough to be thought of as Global.  If let’s say you have a reference that says ‘The Molluscs of Southern Africa’. The author refers “Southern Africa” to Namibia, South Africa and Mozambique. He did not indicate that he took sampling, only that he made the book as a reference guide to identification and he especially included common names.  Here, he listed common names and the countries where they are found. So some common names are found in all three countries, others in only one or two.  
+
+You check first what the author says about the common names if there is any. This might give you an idea of how to better classify the common names in what country they are. In our case we did not find anything significant about the description of the author about the common names and how he got them. It is just that he listed them and that is as is. 
+I wondered how to classify them to what country because one country, Mozambique does not use English as a national language. English is neither in their other languages and all names in the book are in English. I checked the names of the author and what nationality they are and they are all South Africans. So it is possible it is the name most used in South Africa but I do not know if it is same used in Namibia. But Namibia also uses English as a national language so I assumed that since the author indicated in the book that these are the species in Southern Africa then I assumed that the English names used will work for both South Africa and Namibia but I cannot say that for Mozambique because Mozambique does not use English as a national language. If the species are indicated as distributed in Namibia and South Africa, I put two entries in the common names. One for Namibia and one for South Africa using English as the language with a rank of 2 (I verified this with E.Capuli and she said it is ok).  If the species is found in Mozambique I cannot rank it as 2 but as a foreign language, 4. 
