@@ -76,14 +76,14 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    they are supposed to be in the 2nd rank as the rules apply, but we must follow the rule "one name ranked 1 and 2" rule 
    here. 
 
-   Let's say just for an example, in our database you found a species with this ranking: <br/>
-   	                Tagalog, rank 2, Philippines<br/>  
+   Let's say just for an example, in our database you found a species with this ranking:<br/>
+   	                Tagalog, rank 2, Philippines    
         		English, rank 2, Philippines
 
    You will need to correct this because there should only be one name ranked as 2. In this case, English becomes rank 3 instead 
    even if in Ethnologue it says that English is a National language and has status 1. We check the population speaking both 
    languages in Ethnologue. Let's say in our case Ethnologue says there are more people speaking Tagalog than English, so we
-   always follow the "one name ranked 1 or 2" rule. Thus it should be 
+   always follow the "one name ranked 1 or 2" rule. Thus it should be<br/> 
 		Tagalog, rank 2, Philippines 
 		English, rank 3, Philippines
 
