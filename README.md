@@ -76,8 +76,8 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    they are supposed to be in the 2nd rank as the rules apply, but we must follow the rule "one name ranked 1 and 2" rule 
    here. 
 
-   Let's say just for an example, in our database you found a species with this ranking:
-   	                Tagalog, rank 2, Philippines  
+   Let's say just for an example, in our database you found a species with this ranking: <br/>
+   	                Tagalog, rank 2, Philippines<br/>  
         		English, rank 2, Philippines
 
    You will need to correct this because there should only be one name ranked as 2. In this case, English becomes rank 3 instead 
