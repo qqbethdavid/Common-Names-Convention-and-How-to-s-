@@ -70,17 +70,20 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    i.e.  Indo-Pacific, Western Central 
 
 2. There should only be one name ranked 1 and ranked 2 in a country. One per species, language and country. Other 
-   languages that are actually supposed to be ranked 2 because they are in the national language will be superseded by the 
+   languages that are existing in the database and are ranked 2 because they are also in the national language will be superseded by the 
    first name you ranked as 2 (by checking that this is in the national language and is the language with most users if 
    there are several national languages listed in Ethnologue). These other languages then will have to be ranked 3 even if 
-   they are supposed to be in the 2nd rank as the rules apply, but we must follow the rule ‘one name ranked 1 and 2’ rule 
+   they are supposed to be in the 2nd rank as the rules apply, but we must follow the rule "one name ranked 1 and 2" rule 
    here. 
 
-   e.g. Tagalog, rank 2, Philippines
-        English, rank 2, Philippines
+   Let's say just for an example, in our database you found a species with this ranking:
+   	                Tagalog, rank 2, Philippines  
+        		English, rank 2, Philippines
 
-   English becomes rank 3 instead even if in Ethnologue it says that English is a National language is has status 1. We 
-   always follow the ‘one name ranked 1 or 2’ rule. Thus it should be 
+   You will need to correct this because there should only be one name ranked as 2. In this case, English becomes rank 3 instead 
+   even if in Ethnologue it says that English is a National language and has status 1. We check the population speaking both 
+   languages in Ethnologue. Let's say in our case Ethnologue says there are more people speaking Tagalog than English, so we
+   always follow the "one name ranked 1 or 2" rule. Thus it should be 
 		Tagalog, rank 2, Philippines 
 		English, rank 3, Philippines
 
@@ -91,8 +94,8 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    ‘trade’. Tick the box if the reference says it is the trade name. 
 
 
-## Assumed rules (which are based on common sense) 
-1. Caution in tagging ‘Global’ to names that are found in websites and other references. 
+## Assumed rules (which are based on common sense, I guess) 
+1. Caution in tagging ‘Global’ to names that are found in websites and other references. We cannot tag as "Global" names 
 
    1.1.	Which do not say anything about the country it is from.
    
