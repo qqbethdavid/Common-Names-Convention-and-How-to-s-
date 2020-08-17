@@ -60,13 +60,13 @@ In the case of ASFIS or FAO names which have been updated creating either a repe
 
 # III. THE USE OF MODIFIERS
 
-   A modifier is a word, phrase or clause which functions as an adjective or an adverb to describe a word or make its meaning more specific. A modifier is an adjective if it modifies a noun or a pronoun and is an adverb if it modifies a verb. In our case almost always the core names we modify are nouns. 
+   A modifier is a word, phrase or clause which functions as an adjective or an adverb to describe a word or make its meaning more specific. A modifier is an adjective if it modifies a noun or a pronoun and is an adverb if it modifies a verb. In our case almost always the core names we modify are nouns.<br/> 
 
 Example:   In the common name “red king crab” the core name is ‘crab’
 The first modifier is ‘king’ and the second modifier is ‘red’.
 
 ## Other points: 
-1. Global is used in the “country” field when we refer to a language used in large areas 
+1. Global is used in the “country” field when we refer to a language used in large areas   
    i.e.  Indo-Pacific, Western Central 
 
 2. There should only be one name ranked 1 and ranked 2 in a country. One per species, language and country. Other 
@@ -84,7 +84,7 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    even if in Ethnologue it says that English is a National language and has status 1. We check the population speaking both 
    languages in Ethnologue. Let's say in our case Ethnologue says there are more people speaking Tagalog than English, so we
    always follow the "one name ranked 1 or 2" rule. Thus it should be<br/> 
-		Tagalog, rank 2, Philippines 
+		Tagalog, rank 2, Philippines   
 		English, rank 3, Philippines
 
 3. In the case of a reference listing 3 or more names in the national language, one of them should be ranked 2, the rest 
