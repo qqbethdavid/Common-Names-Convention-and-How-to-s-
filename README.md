@@ -33,11 +33,8 @@ Gives you a hand in common name encoding
 
 
 
-##**Some points in ranking:**##
-
-     
-In ranking there is a need to know the languages in a certain country and which ones have official status,
-are in use widespread or are indigenous or threatened. It also helps if the population of the users of a particular language is known because it may help us to determine if this is a national, official language or it is just a commonly used language. We check the language and get the most recent and updated information on which languages are national, official, etc. We update these languages using an International Standard ISO (e.g.  Ethnologue, it has a website but you’ll need to register to access most of the information in it. It lists the current status of languages and the number of users). 
+**Some points in ranking:**
+In ranking, there is a need to know the languages in a certain country and which ones have official status, are in use widespread, or are indigenous or threatened. It may also help if the population of the users of a particular language is known because this may help to determine its status. Some tools in the web have classification and descriptions of languages that can be helpful in ranking. We can check the names with the tools that use the most recent and updated information and whose classification are based on an international standard (ISO certified, i.e. Ethnologue), (Ethnologue has a website but you will need to register to access most of the information in it. It lists the current status of languages and the number of users). 
 
 
 ## II. NEW AND OLD ASFIS and FAO NAMES
@@ -72,14 +69,12 @@ Example:   In the common name “red king crab” the core name is ‘crab’
 The first modifier is ‘king’ and the second modifier is ‘red’.
 
 ## Other points: 
-1. Global is used in the “country” field when we refer to a language used in large areas   
-   i.e.  Indo-Pacific, Western Central 
 
-2. There should only be one name ranked 1 and ranked 2 in a country. One per species, language and country. Other 
-   languages that are existing in the database and are ranked 2 because they are also in the national language will be superseded by the 
-   first name you ranked as 2 (by checking that this is in the national language and is the language with most users if 
+1. There should only be one name ranked 1 and ranked 2 in a country. One per species, language and country. Other 
+   languages that are existing in the database and are ranked 2 (because they are also in the national language) will be superseded by the 
+   first name you ranked as 2 (by checking that this name is in the national/official language and is the language with most users if 
    there are several national languages listed in Ethnologue). These other languages then will have to be ranked 3 even if 
-   they are supposed to be in the 2nd rank as the rules apply, but we must follow the rule "one name ranked 1 and 2" rule 
+   these are supposed to be in the 2nd rank as the rules apply, but we must follow the rule "one name ranked 1 and 2" rule 
    here. 
 
    Let's say just for an example, in our database you found a species with this ranking:<br/>
