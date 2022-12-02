@@ -34,6 +34,7 @@ Gives you a hand in common name encoding
 
 
 **Some points in ranking:**
+
 In ranking, there is a need to know the languages in a certain country and which ones have official status, are in use widespread, or are indigenous or threatened. It may also help if the population of the users of a particular language is known because this may help to determine its status. Some tools in the web have classification and descriptions of languages that can be helpful in ranking. We can check the names with the tools that use the most recent and updated information and whose classification are based on an international standard (ISO certified, i.e. Ethnologue), (Ethnologue has a website but you will need to register to access most of the information in it. It lists the current status of languages and the number of users). 
 
 
