@@ -8,8 +8,7 @@ Gives you a hand in common name encoding
 1. Name adapted by the AFS or the FAO and may have been adopted in the country as the official name of the species. 
 2. Legal common name: This is a common name with legal status in a country such as AFS. Only one common name with rank 1 
    per species, language and country. 
-3. If there is an AFS or FAO name already in existing and a new updated reference found has the same name just put a note in the 
-   remarks field   i.e. “also used in Ref. XXXX".
+3.
 
 
 #### RANK 2 = Name used in the national or official language of the country
@@ -34,7 +33,7 @@ Gives you a hand in common name encoding
 
 
 
-**Some points in ranking:**
+##**Some points in ranking:**##
 
      
 In ranking there is a need to know the languages in a certain country and which ones have official status,
@@ -45,14 +44,16 @@ are in use widespread or are indigenous or threatened. It also helps if the popu
 
 In the case of ASFIS or FAO names which have been updated creating either a repetition of the old name or an entirely new name, 
 
-1. If the ASFIS or FAO name has been updated and is the same as the old name record in the previous versions of ASFIS/FAO 
+1. If the ASFIS or FAO names has been updated (by FAO) and these names are the same as the old name recorded in the previous versions of ASFIS/FAO 
    then we simply change the reference number to the new one and then we put in the remarks field the old reference number 
    i.e. “also used in Ref. v. xxxx...”. 
 
 2. If the ASFIS or FAO name has been updated and is an entirely new name for the species then we create a new record and a 
    new reference number.
-   Then the old name will be tagged as FAO old in the “Type” field and the rank will be zero.   The new FAO name in the 
+   The old name will be tagged as FAO old in the “Type” field and the rank will be zero.   The new FAO name in the 
    current/new updated version will assume Rank 1. 
+   
+
 
 
 ### III. The use of Global in "country" field.
