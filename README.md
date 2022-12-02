@@ -78,8 +78,8 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    here. 
 
    Let's say just for an example, in our database you found a species with this ranking:<br/>
-   	                Tagalog, rank 2, Philippines    
-        		English, rank 2, Philippines
+   - Tagalog, rank 2, Philippines    
+   - English, rank 2, Philippines
 
    You will need to correct this because there should only be one name ranked as 2. In this case, English becomes rank 3 instead 
    even if in Ethnologue it says that English is a National language and has status 1. We check the population speaking both 
