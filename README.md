@@ -68,7 +68,7 @@ In the case of ASFIS or FAO names which have been updated creating either a repe
 Example:   In the common name “red king crab” the core name is ‘crab’
 The first modifier is ‘king’ and the second modifier is ‘red’.
 
-## Other points: 
+### Other points: 
 
 1. There should only be one name ranked 1 and ranked 2 in a country. One per species, language and country. Other 
    languages that are existing in the database and are ranked 2 (because they are also in the national language) will be superseded by the 
@@ -81,34 +81,33 @@ The first modifier is ‘king’ and the second modifier is ‘red’.
    - Tagalog, rank 2, Philippines    
    - English, rank 2, Philippines
 
-   You will need to correct this because there should only be one name ranked as 2. In this case, English becomes rank 3 instead 
-   even if in Ethnologue it says that English is a National language and has status 1. We check the population speaking both 
-   languages in Ethnologue. Let's say in our case Ethnologue says there are more people speaking Tagalog than English, so we
+   You will need to correct this because there should only be one name ranked as 2. We check the population speaking both 
+   languages in Ethnologue. Let us say in our case Ethnologue says there are more people speaking Tagalog than English, so we
    always follow the "one name ranked 1 or 2" rule. Thus it should be<br/> 
-		Tagalog, rank 2, Philippines   
-		English, rank 3, Philippines
+   - Tagalog, rank 2, Philippines   
+   - English, rank 3, Philippines
 
-3. In the case of a reference listing 3 or more names in the national language, one of them should be ranked 2, the rest 
+2. In the case of a reference listing 3 or more names in the national/official language, one of them should be ranked 2, the rest 
    should be ranked 3.  
 
-4. Trade names are mostly for ornamental fishes. Trade name refers to fishes/nonfishes being imported hence, the name 
+3. Trade names are mostly for ornamental fishes. Trade name refers to fishes/nonfishes being imported hence, the name 
    ‘trade’. Tick the box if the reference says it is the trade name. 
 
 
-## Assumed rules (which are based on common sense, I guess) 
-1. Caution in tagging ‘Global’ to names that are found in websites and other references. We cannot tag as "Global" names 
+### Assumed rules (which are based on common sense, I guess) 
+1. Caution in tagging ‘Global’ to common names that are found in websites and other references. We cannot tag as "Global" names 
 
-   1.1.	Which do not say anything about the country it is from.
+   - Which do not say anything about the country it is from.
    
-   1.2.	And the country where the name originates from is vaguely described in the reference (e.g. there are two or three 
-        countries that the author included in his study and it is not indicated where the sampling was done). 
+   - And the country where the common name originates from is vaguely described in the reference (e.g. there are two or three 
+     countries that the author included in his study and it is not indicated where the sampling was done). 
 	
-   1.3.	Or you cannot say for sure what country it is because there is some conflict between the site where the experiment 
-        was done and the nationality of the author. 
+   - Or you cannot say for sure what country it is because there is some conflict between the site where the experiment or sampling 
+     was done and the nationality of the author. 
 
 
 
 
 
 
-Check the Wiki for one case handled in common names. 
+_Check the Wiki for one case handled in common names._ 
