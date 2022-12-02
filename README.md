@@ -32,7 +32,9 @@ Gives you a hand in common name encoding
 
 
 
-***Some points in ranking:***
+
+
+**Some points in ranking:**
 
      
 In ranking there is a need to know the languages in a certain country and which ones have official status,
